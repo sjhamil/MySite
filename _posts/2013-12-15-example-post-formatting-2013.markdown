@@ -3,7 +3,6 @@ layout: post
 title:  "Example Post Formatting 2013"
 date:   2013-12-15
 author: Author
-category: ios
 tags: [jekyll, github]
 ---
 

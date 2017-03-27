@@ -2,7 +2,7 @@
 layout: post
 title:  "Example Post Formatting"
 date:   2014-12-15
-author: Author
+author: Stephanie
 category: ios
 tags: [jekyll, github]
 ---

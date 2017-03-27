@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
 url: "https://www.stephaniejhamilton.com"#"https://fengzhichu.com/fengzhichu-theme" # the base hostname & protocol for your site
-imageurl/weekly: "https://source.unsplash.com/category/nature/2600x500" #"https://unsplash.it/2600/500?random"
+imageurl: ""#"https://source.unsplash.com/category/nature/2600x500/daily" #"https://unsplash.it/2600/500?random"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -9,16 +9,16 @@ theme:
   title: Stephanie Hamilton
   avatar: avatar.png
   hometitle: Home #display on navigation menu.
-  yoursitetitle: Stephanie J. Hamilton
+  yoursitetitle: Stephanie Hamilton
   gravatar: # Email MD5 hash
   description: "used by search engines" # used by search engines
   visiblewords: 100
   # Header and footer text
   header_text: >
-     "Life need not be easy, provided only that it is not empty." <br>-- Lise Meitner
+     "Life need not be easy, provided only that it is not empty." <br>~ Lise Meitner
 
-  header_text_feature_image: img/sample_feature_img.png
-  place_holder_image: img/sample_feature_img.png
+  header_text_feature_image: img/northern_lights.jpeg
+  place_holder_image: img/calm_ripples.jpeg
   footer_text: >
    <a href="www.stephaniejhamilton.com">Stephanie Hamilton</a> 
 

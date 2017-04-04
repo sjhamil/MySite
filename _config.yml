@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
-url: "http://www.stephaniejhamilton.com" # the base hostname & protocol for your site
+url: "https://www.stephaniejhamilton.com" # the base hostname & protocol for your site
 imageurl: "" #"https://unsplash.it/2600/500?random"
 
 # THEME-SPECIFIC CONFIGURATION

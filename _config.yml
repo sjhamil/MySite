@@ -7,7 +7,7 @@ imageurl: ""#"https://source.unsplash.com/category/nature/2600x500/daily" #"http
 theme:
   # Meta
   title: Stephanie Hamilton
-  avatar: avatar.png
+  #avatar: avatar.png
   hometitle: Home #display on navigation menu.
   yoursitetitle: Stephanie Hamilton
   gravatar: # Email MD5 hash
@@ -44,7 +44,7 @@ theme:
   twitter: "StephHamy820"
   wordpress:
   youtube:
-
+  
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
@@ -66,7 +66,7 @@ theme:
   post_navigation: false
 
 # PAGINATION
-enforce_ssl: "fengzhichu.com"
+enforce_ssl: "stephaniejhamilton.com"
 paginate: 5
 paginate_path: "blog/page:num"
 permalink: blog/:title/ 
@@ -85,3 +85,4 @@ sass:
 
 gems:
   - jekyll-paginate
+  - jekyll-archives

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feature images
-feature-img: "img/rainforest_waterfall.png"
+feature-img: "img/northern_lights.jpeg"
 author: Author
 category: other
 ---

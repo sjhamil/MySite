@@ -36,13 +36,14 @@
   }
   .tags-expo-section {
     ul {
+      list-style-type: circle;
       list-style-position: inside;
       padding: 0;
       li {
-        padding: 0 1rem;
+          padding: 0 1rem;
         &:hover {
           list-style-type: disc;
-          padding: 0 .5rem;
+          @extend %link-hover;
         }
       }
     }

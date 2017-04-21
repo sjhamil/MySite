@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /Archive/
+permalink: /blog/archive/
 ---
 
 <section class="archive-post-list">

@@ -80,6 +80,7 @@ sechby:
   tag:   #with
 
 # BUILD SETTINGS
+include: ["_pages"]
 markdown: kramdown
 highlighter: rouge
 sass:

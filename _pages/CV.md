@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /CV/
 feature_img: "img/calm_ripples.jpeg"
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Archive
 permalink: /blog/archive/
+hide: true
 ---
 
 <section class="archive-post-list">

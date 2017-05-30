@@ -15,7 +15,7 @@ layout: default
     <a class="subtitle">{{ page.date | date: "%-d %B %Y" }}</a>
       {% if page.categories %} | 
       {% for category in page.categories %}
-    <a class="post-category">{{ category }}</a>
+    <a href="{{ site.baseurl }}/blog/{{ category }}" class="post-category">{{ category }}</a>
     {% endfor %}
   {% endif %}
       {% if page.tags %} | 

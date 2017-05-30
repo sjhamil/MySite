@@ -20,6 +20,13 @@ layout: default
 		    </h1>
 
       <span class="subtitle">{{ post.date | date_to_string }} | </span>
+      {% if post.categories %}
+      {% for category in post.categories %}
+    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ category | slugify }}" class="post-category">{{ category }}</a>
+      {% endfor %}
+            <span class="subtitle"> | </span>
+      {% endif %}
+
     {% if post.tags %} 
     {% for tag in post.tags %}
     <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a>

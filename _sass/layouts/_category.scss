@@ -1,0 +1,22 @@
+.post-category {
+  display: inline-block;
+  padding: 0 .5rem;
+  margin-right: 0 .5rem;
+  border-radius: 4px;
+  color: $post-link-color;
+  font-family: $font-family-main;
+  //font-size: 90%;
+  &:before {
+    content: "\f292";
+    font-family: $font-font-awesome;
+    padding-right: .2em;
+  }
+  &:hover {
+      // text-decoration: underline;
+      //color: darken($link-color, 15%);
+      
+    text-decoration: none;
+     background: $post-link-color;
+    color: $background-color;
+  }
+}

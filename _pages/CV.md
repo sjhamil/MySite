@@ -35,7 +35,8 @@ objects using the Dark Energy Survey
 
 **2010-2014** <br>
 Undergraduate Researcher, MSU <br>
-High Energy Physics -- several projects, including BLAH
+High Energy Physics -- several projects, including detector improvements to the
+ATLAS detector and explorations with machine learning to improve a Higgs boson analysis.
 
 **Summer 2013** <br>
 Summer Intern, Fermilab <br>

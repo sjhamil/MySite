@@ -6,6 +6,10 @@ permalink: /About/
 
 ## Hello, and welcome!
 
+<img src="{{ '/img/meCTIO.jpg' | prepend: site.baseurl }}" alt="" style="width:
+35%; float: right; margin-left: 5%">
+
+
 My name is Stephanie Hamilton, and I am a third year graduate student and NSF
 Graduate Research Fellow in Physics at the University of Michigan.
 
@@ -25,7 +29,4 @@ images of the Southern Hemisphere sky using a sophisticated camera (the Dark
 Energy Camera) mounted on the 4-meter Blanco Telescope in Chile. It is in these images
 that we are searching for new small bodies and the ultimate prize, Planet Nine!
 
-<!---
-<img src="{{ '/img/meCTIO.jpg' | prepend: site.baseurl }}" alt="" style="width:
-50%; height: 50%">
---->
+

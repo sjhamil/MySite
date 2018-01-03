@@ -10,6 +10,7 @@ tags:
 - astronomy
 - observatory
 - Arizona
+comments: true
 ---
 
 ....ok, I never actually saw the bear....but we were thoroughly warned before
@@ -19,7 +20,7 @@ time we were there, though not by anyone in our group.
 
 This May, I had the fantastic opportunity to travel to [Kitt Peak National
 Observatory](https://www.noao.edu/kpno/), located about 50 miles southwest of
-Tucson, AZ, to teach a great 
+Tucson, AZ, to teach a great
 group of undergraduates about ground-based observatories. Over the course of
 four short weeks, the students developed a science idea to test, wrote a
 telescope observing proposal based on that idea, took their own data using
@@ -58,7 +59,7 @@ but coming from Michigan pretty much anything else seems brown by comparison.
 
 The students were assigned dorm rooms in pairs, while Sally and I would be
 staying in the guest house on site. Accommodations were basically what you'd
-expect from a facility constructed in 
+expect from a facility constructed in
 the 1960s -- wood paneled walls, fluffy carpet, a single ethernet modem that was
 very obviously wired after the house was built....not even kidding, there was an
 obvious hole in the exterior wall. Nonetheless, I was happy to be staying in a
@@ -118,9 +119,9 @@ The issue with this design is that by having one axis aligned with Earth's
 rotational axis, one ends up with the weight of the telescope somewhat suspended
 in midair. Consequently, the supports for the telescope need to be much bigger
 in order to securely support its weight. A better design is one that
-doesn't have to fight gravity as 
+doesn't have to fight gravity as
 much -- instead, have one axis be horizontal to the ground (like a
-merry-go-round) and have the second axis be a simple up-and-down 
+merry-go-round) and have the second axis be a simple up-and-down
 movement. Unfortunately, this design was not practical until more advanced
 computers came along that could precisely control the two axes simultaneously in order
 to track an object across the sky. Now that that's possible, however, telescopes
@@ -223,7 +224,7 @@ nothing like it!
 
 ----
 
-## Friday, May 12th -- Monday, May 15th 
+## Friday, May 12th -- Monday, May 15th
 
 Hooray, it was finally observing weekend! Granted, we had literally all of
 Friday to get through first, and maybe I was the only one actually excited about
@@ -240,8 +241,8 @@ instruments installed that would perform spectroscopy (essentially decomposing
 all of the light from a source into the amount of light per wavelength), which
 most of the students' projects required. This all meant that my job was actually
 pretty easy! Things went smoothly the whole night, at least at the 1.3m, and I
-was glad that the first 
-observing experience (ever, for some of the students) went so well! 
+was glad that the first
+observing experience (ever, for some of the students) went so well!
 
 We wrapped up around 5:30am (I know, crazy), and then slept until the next
 afternoon. I always feel extremely lazy when observing because I wake up at 2pm
@@ -274,7 +275,7 @@ Sunday night was much more of the same, and again we slept until
 mid-afternoon on Monday. I was so glad our observing runs went so incredibly
 smoothly! That all too often seems not to be the case, whether it's because of
 some technical failure, a software error, or just Mother Nature. After a lecture
-and dinner, we all had Monday night off 
+and dinner, we all had Monday night off
 and were able to finally try to adjust back to normal sleeping hours. This is
 actually starting to become second nature to me...every time I go observing, it
 seems like I adjust to the opposite schedule even faster than the last time.

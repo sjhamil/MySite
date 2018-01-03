@@ -9,6 +9,7 @@ tags:
   - pacific northwest
 categories:
   - Travel
+comments: true
 ---
 
 Just...wow. I feel like I've been saying this for the past several years with
@@ -37,7 +38,7 @@ city after treating us to a delicious brunch. Afterward, we headed to the
 Starbucks Roastery (of course I had to get fresh Starbucks coffee in
 Seattle!). The rest of the day was spent enjoying ice cream and good drinks
 before heading to a Mariners baseball game. Our weekend concluded with  another
-delicious brunch, a tour of the 
+delicious brunch, a tour of the
 (outside of the) SpaceX complex in Redmond, WA, and exploring the flight museum.
 
 While our hosts worked during the day on Monday and Tuesday, my boyfriend and I
@@ -45,7 +46,7 @@ took the opportunity to do some touristy things in Seattle: go up in the Space
 Needle, walk through the Chihuly Glass Museum, and see the Olympic Sculpture
 Park. After a 13+ mile day of walking, naturally we then had to do a four-mile
 hike to Rattlesnake Ledge the following day, in the mountains outside of
-Seattle. Even though our 
+Seattle. Even though our
 feet were screaming at us a bit, the hike was definitely worth it and the view
 from the ledge was fantastic!
 
@@ -81,7 +82,7 @@ not have wanted to hike in the other direction! Anyway, the views were amazing:
 <!-- title="The landscape during totality."> -->
 <!-- <p style="clear: both;"></p> -->
 <center><img src="{{ '/img/PNW2017/misery_ridge.jpg' | prepend:
-site.baseurl }}" 
+site.baseurl }}"
 alt="View from Misery Ridge."></center>
 
 

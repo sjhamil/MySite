@@ -11,6 +11,7 @@ tags:
 - astronomy
 - observatory
 - Arizona
+comments: true
 ---
 
 
@@ -82,7 +83,7 @@ desert museum">
 ### Wednesday, May 17th
 
 Wednesday began with a lecture on optical and infrared telescopes. We talked
-about how telescopes direct light to 
+about how telescopes direct light to
 magnify distant objects, the different ways one can construct a telescope, and
 the pros and cons of each telescope design. You might not know that there
 are at least five different basic telescope designs, each with their own
@@ -103,7 +104,7 @@ sizes and summarizing all of the major telescopes that have been built or are in
 the works, we took another tour of the WIYN and Mayall telescopes. This time, we
 were focusing on the physical construction of the scopes -- mounts, structure,
 tubes, and the like. While at the 4-m Mayall telescope, our guide brought the
-telescope to its "service position" so that we could clearly see the 
+telescope to its "service position" so that we could clearly see the
 mirror and the inner workings. We also got to climb into the "Cassegrain Cage,"
 or the chamber-like space at the bottom of the telescope below the mirror. Let me tell you, it's
 a bit disconcerting sitting down there knowing there's a 30-ton mirror and all
@@ -111,15 +112,15 @@ of the other metal and telescope structure right above your head...
 
 
 <img src="{{ '/img/KPNO17/cassegraincage.jpg' | prepend: site.baseurl }}"
-style="float: left; width: 24%; margin-right: 1%; 
+style="float: left; width: 24%; margin-right: 1%;
 margin-bottom: 0.5em;" alt="The Cassegrain cage from afar" title="The Cassegrian
 cage from afar">
 <img src="{{ '/img/KPNO17/cassegraincage_inside.jpg' | prepend: site.baseurl }}"
-style="float: center; width: 37%; 
+style="float: center; width: 37%;
 margin-bottom: 0.5em;" alt="Inside the Cassegrain cage" title="Inside the
 Cassegrain cage">
 <img src="{{ '/img/KPNO17/mayallmirror.jpg' | prepend: site.baseurl }}"
-style="float: right; width: 37%; margin-left: 1%; 
+style="float: right; width: 37%; margin-left: 1%;
 margin-bottom: 0.5em;" alt="View of the Mayall 4-m mirror" title="View of the
 Mayall 4-m mirror">
 <p style="clear: both;"></p>
@@ -144,7 +145,7 @@ the tour with a major spoiler alert, seeing the final step of manufacture
 first. We then got to see how the silicon pieces arrive at the lab (roughly cut
 to size but definitely not in their final shapes), how the tiny micro/nano-scale
 electronics are installed, how the chips are tested for quality (we saw the
-testing of CCDs that will be installed on 
+testing of CCDs that will be installed on
 [LSST](https://en.wikipedia.org/wiki/Large_Synoptic_Survey_Telescope)!), and finally
 what they look like once they are finished. I even got to take a selfie in one
 of the biggest CCD chips ever made!
@@ -176,7 +177,7 @@ unfortunately it had already started its journey down to Chile by the time we
 took our tour. However, they are currently casting the mirrors for another huge
 telescope, the
 [Giant Magellan Telescope](https://en.wikipedia.org/wiki/Giant_Magellan_Telescope),
-which will consist of *seven* 8-m 
+which will consist of *seven* 8-m
 mirrors in an array. Just let that sink in for a second....
 
 Here's the basic process for casting your very own giant telescope mirror!

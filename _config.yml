@@ -20,7 +20,7 @@ theme:
   header_text_feature_image: img/northern_lights.jpeg
   place_holder_image: img/calm_ripples.jpeg
   footer_text: >
-   <a href="www.stephaniejhamilton.com">Stephanie Hamilton</a> 
+   <a href="www.stephaniejhamilton.com">Stephanie Hamilton</a>
 
   # Icons
   rss: false
@@ -31,11 +31,11 @@ theme:
   facebook:
   flickr:
   github: "sjhamil"
-  weibo: 
+  weibo:
   google_plus:
   instagram: "sjhamilton820"
   linkedin: "https://www.linkedin.com/in/stephanie-j-hamilton/" # Full URL
-  pinterest: 
+  pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
@@ -44,10 +44,10 @@ theme:
   twitter: "StephHamy820"
   wordpress:
   youtube:
-  
+
   # Scripts
   google_analytics: UA-97843872-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: stephaniejhamilton
   katex: true # Enable if using math markup
 
   # Localization strings
@@ -75,7 +75,7 @@ permalink: blog/:title/
 tag_page: '/tags/'
 
 # Posted in ... with ...
-sechby: 
+sechby:
   category:   #in
   tag:   #with
 

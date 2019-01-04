@@ -14,11 +14,11 @@ theme:
   description: "This is the personal website of Stephanie Hamilton, graduate student at the University of Michigan" # used by search engines
   visiblewords: 100
   # Header and footer text
-  header_text: >
-     "Life need not be easy, provided only that it is not empty." <br>~ Lise Meitner
+  header_text: #>
+#     "Life need not be easy, provided only that it is not empty." <br>~ Lise Meitner
 
   header_text_feature_image: img/northern_lights.jpeg
-  place_holder_image: img/calm_ripples.jpeg
+  place_holder_image: img/aurora.jpg
   footer_text: >
    <a href="www.stephaniejhamilton.com">Stephanie Hamilton</a>
 

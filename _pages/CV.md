@@ -9,7 +9,13 @@ You can find my full CV <a
 href="https://drive.google.com/file/d/0B_dvQtq8UPvuUU1mTXhIdmNjbDA/view"
 target="_blank">here</a>, and a brief version <a
 href="https://drive.google.com/file/d/0B_dvQtq8UPvudmNxWVlzeWltY00/view"
-target="_blank">here</a>.  Some of the highlights are listed below!
+target="_blank">here</a>.
+
+Alternatively, you can find an education-focused resume <a
+href="https://drive.google.com/file/d/1Lv5gDS-qiEeb310JUZ1t1U0Gg_W7v5BI/view?usp=sharing"
+target="_blank"> here</a> and a writing-focused resume <a
+href="https://drive.google.com/file/d/1uI822nZo5OCbnQOWRNJODRpzJfdi588r/view?usp=sharing"
+target="_blank"> here</a>.
 
 ____
 
@@ -74,8 +80,10 @@ Fields”, AJ 151, 39 (2016).
 
 ### Awards and Honors
 
-American Astronomical Society International Travel Grant, *2018* <br>
-American Astronomical Society Hartmann Student Travel Grant, *2017*<br>
+American Astronomical Society (AAS) FAMOUS Grant, *2018* <br>
+University of Michigan Rackham Professional Development Grant, *2018* <br>
+AAS International Travel Grant, *2018* <br>
+AAS Hartmann Student Travel Grant, *2017, 2018*<br>
 University of Michigan Rackham Graduate School Conference Travel Grant, *2015,
 2016, 2017*<br>
 NSF Graduate Research Fellowship, *2016-2019* <br>
@@ -132,8 +140,9 @@ Intro physics, algebra, calculus
 ### Science Communication
 
 [RELATE] leadership board member, *2017--present*<br>
-Communicating Science Conference for Graduate Students, Michigan region
-organizer ([ComSciCon-MI]), *2017--present*<br>
+Communicating Science Conference for Graduate Students --- Michigan region
+co-chair ([ComSciCon-MI], *2017--present*), American Astronomical Society chair
+(*2018--present*)<br>
 Santa Fe Science Writing Workshop participant, *May 2018* <br>
 [Astrobites] author and editor, *2017--present*<br>
 [Michigan Science Writers] author and editor, *2017--present*<br>

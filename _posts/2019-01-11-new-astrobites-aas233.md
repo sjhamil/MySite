@@ -57,9 +57,9 @@ During the meeting, I was part of the Astrobites live-blogging team. As a group,
 we wrote summaries of the major sessions during each day of the meeting,
 including the plenary talks, press conferences, and other interesting special
 sessions. You can find those summaries here: [Day
-1](https://astrobites.org/2019/01/12/astrobites-at-aas-233-day-1/), [Day
-2](https://astrobites.org/2019/01/12/astrobites-at-aas-233-day-2/), [Day
-3](https://astrobites.org/2019/01/12/astrobites-at-aas-233-day-3/), [Day
+1](https://astrobites.org/2019/01/08/astrobites-at-aas-233-day-1/), [Day
+2](https://astrobites.org/2019/01/09/astrobites-at-aas-233-day-2/), [Day
+3](https://astrobites.org/2019/01/10/astrobites-at-aas-233-day-3/), [Day
 4](https://astrobites.org/2019/01/12/astrobites-at-aas-233-day-4/) (to read
 my summaries, just do a browser search for my name).
 

@@ -5,22 +5,28 @@ permalink: /blog/archive/
 hide: true
 ---
 
-You can find my posts for Astrobites <a
+### <span style="font-variant:small-caps;">Miscellaneous Posts</span>
+* I have written several posts for <a
 href="https://astrobites.org/author/shamilton/"
-target="_blank">here</a> and my posts for the Michigan Science Writers <a
+target="_blank">Astrobites</a> and the <a
 href="https://misciwriters.com/tag/stephaniehamilton/"
-target="_blank">here</a>!
-
-I've also written some guest posts:
-* <a
+target="_blank">Michigan Science Writers</a>.
+* Through the [RELATE](https://learntorelate.org) organization at UMich, I wrote
+and edited [graduate student profile
+pieces](https://sites.google.com/search/umich.edu/grad-ed-studentstories?query=Stephanie%20Hamilton&scope=site).
+* I've also written some guest posts:
+  * <a
   href="https://blog.ucsusa.org/science-blogger/bringing-communication-back-into-science-incentivizing-scicomm-efforts-for-early-career-scientists"
   target="_blank">"Bringing Communication Back Into Science: Incentivizing
   #scicomm Efforts for Early Career Scientists"</a>, The Science Network, August
   2018.
-* <a
+  * <a
   href="http://www.planetary.org/blogs/guest-blogs/2017/1030-planet-nine-debate-history.html"
   target="_blank">"Then vs. Now: How the Debate Over a Distant Planet in the
   Solar System Has Evolved"</a>, The Planetary Society, November 2017.
+* Finally, I was a 2019 AAAS Mass Media Fellow at the Indianapolis Star -- you
+can find my clips <a
+href="https://www.aaas.org/programs/mass-media-fellowship/stephanie-hamilton" target="_blank">here.</a>
 
 
 <section class="archive-post-list">

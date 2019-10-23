@@ -33,6 +33,8 @@ Thesis topic: Studies of the Outer Solar System with the Dark Energy Survey<br>
 
 ### Science Communication and Outreach
 
+[#UniqueScientists] team member, *2019--present* <br>
+[ScienceTalk] Logistics committee member, *2019--present*<br>
 [RELATE] leadership board member, *2017--2019*<br>
 Communicating Science Conference for Graduate Students --- Michigan region
 co-chair ([ComSciCon-MI], *2017--2019*), [Flagship] organizing committee member *2018--present*<br>
@@ -161,3 +163,5 @@ Survey,” 2018, arXiv:1804.00591.
 [Flagship]: https://comscicon.com/comscicon-2019-flagship-workshop
 [Astrobites]: https://astrobites.org/author/shamilton/
 [Michigan Science Writers]: https://misciwriters.com/tag/stephaniehamilton/
+[#UniqueScientists]: https://uniquescientists.com/
+[ScienceTalk]: https://www.sciencetalk.org/science-talk-20.html

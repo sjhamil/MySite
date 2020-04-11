@@ -11,7 +11,7 @@ theme:
   hometitle: Home #display on navigation menu.
   yoursitetitle: Stephanie Hamilton
   gravatar: # Email MD5 hash
-  description: "This is the personal website of Stephanie Hamilton, graduate student at the University of Michigan" # used by search engines
+  description: "Stephanie Hamilton, PhD, is a planetary scientist and science communicator. She's trained over 500 researchers on effective communication, written dozens of articles about astronomy, and is active on Twitter @SpaceSciSteph." # used by search engines
   visiblewords: 100
   # Header and footer text
   header_text: #>
@@ -33,7 +33,7 @@ theme:
   github: "sjhamil"
   weibo:
   google_plus:
-  instagram: "sjhamilton820"
+  instagram: "spacescisteph"
   linkedin: "https://www.linkedin.com/in/stephanie-j-hamilton/" # Full URL
   pinterest:
   reddit:
@@ -41,7 +41,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "StephHamy820"
+  twitter: "SpaceSciSteph"
   wordpress:
   youtube:
 

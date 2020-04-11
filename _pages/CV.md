@@ -19,6 +19,13 @@ target="_blank"> here</a>.
 
 ---
 
+### Current Position
+**Technical Communications Associate** (Feb 2020--present), MIT School of Engineering
+- Presentation preparation of faculty promotion cases
+- Presentation coaching for SoE researchers
+- News-style article coverage of current SoE projects and results
+
+
 ### Education
 
 **Ph.D. in Physics** (2014 -- 2019), University of Michigan, Ann Arbor, MI<br>
@@ -36,8 +43,10 @@ Thesis topic: Studies of the Outer Solar System with the Dark Energy Survey<br>
 [#UniqueScientists] team member, *2019--present* <br>
 [ScienceTalk] Logistics committee member, *2019--present*<br>
 [RELATE] leadership board member, *2017--2019*<br>
-Communicating Science Conference for Graduate Students --- Michigan region
-co-chair ([ComSciCon-MI], *2017--2019*), [Flagship] organizing committee member *2018--present*<br>
+Communicating Science Conference for Graduate Students (ComSciCon) <br>
+-- Michigan region co-founder and chair ([ComSciCon-MI], *2017--2019*)<br>
+-- [Flagship] organizing committee member *2018--present*<br>
+-- Leadership Team member --- Write-a-thon lead, [ComSciConversation] blog editor *2019--present*<br>
 Santa Fe Science Writing Workshop participant, *May 2018* <br>
 [Astrobites] author and editor, *2017--2019*<br>
 [Michigan Science Writers] author and editor, *2017--2019*<br>
@@ -50,24 +59,17 @@ FEMMES Capstone Day, *2015-2017*
 
 ### Teaching
 
-**Workshop Instructor**, Summer 2018<br>
-[RELATE] Intensive STEM Communication Fundamentals Workshop
+**Workshop Instructor**, 2017--2019 <br>
+-- [RELATE] Intensive STEM Communication Fundamentals Workshop<br>
+-- [RELATE] Guest lecturer upon request at UMich
 
-**Graduate Student Instructor**, July 2018<br>
-Michigan Math and Science Scholars<br>
-"Climbing the Distance Ladder to the Big Bang: How Astronomers Survey the Universe"
-
-**Graduate Student Instructor**, May 2017, 2019<br>
-Ground-Based Observatories (hosted at Kitt Peak National Observatory, AZ)
-
-**Graduate Student Instructor**, 2015--2016<br>
-Intro Electricity and Magnetism Laboratory
+**Graduate Student Instructor**<br>
+-- (May 2017, 2019) Ground-Based Observatories, hosted at Kitt Peak National Observatory, AZ<br>
+-- (Jul 2018) Michigan Math and Science Scholars "Climbing the Distance Ladder to the Big Bang"<br>
+-- (2015--2016) Intro Electricity and Magnetism Laboratory
 
 **Undergraduate Teaching Assistant**, 2014 <br>
 Intro Electricity and Magnetism
-
-**Tutor**, 2010--2014 <br>
-Intro physics, algebra, calculus
 
 
 ### Awards and Honors
@@ -75,10 +77,6 @@ Intro physics, algebra, calculus
 AAAS Mass Media Fellowship, *2019* <br>
 American Astronomical Society (AAS) FAMOUS Grant, *2018* <br>
 University of Michigan Rackham Professional Development Grant, *2018* <br>
-AAS International Travel Grant, *2018* <br>
-AAS Hartmann Student Travel Grant, *2017, 2018*<br>
-University of Michigan Rackham Graduate School Conference Travel Grant, *2015,
-2016, 2017*<br>
 NSF Graduate Research Fellowship, *2016-2019* <br>
 NASA Earth and Space Sciences Fellowship -- Declined, *2016* <br>
 Helmut W. Baer Graduate Fellowship  (UofM), *2014-2015* <br>
@@ -101,6 +99,8 @@ CERN, High Energy Physics
 
 ### Presentations
 
+**Jan 2020:** “Make it Personal: Effective Strategies for Communicating Your Science,” invited speaker,
+UCLA and UC-Irvine, CA.<br>
 **Jan 2019:** “Recent Results in the z<10<sup>−10</sup> Universe from the Dark Energy Survey,” invited
 speaker, 233rd meeting of the AAS, Seattle, WA.<br>
 **Mar 2018:** “Trans-Neptunian Solar System Science with the Dark Energy Survey,” The
@@ -128,8 +128,10 @@ _(10 additional talks not listed)_
 #### <span style="font-variant:small-caps;">Peer-reviewed</span>
 
 
-***[8]*** **S. J. Hamilton**, D. W. Gerdes, et al, “A Survey Simulator for Moving Object
-Detection in the Dark Energy Survey,” 2019, in prep. <br>
+***[9]*** **S. J. Hamilton**, D. W. Gerdes, et al, “A Survey Simulator for Moving Object
+Detection in the Dark Energy Survey,” 2020, in prep. <br>
+***[8]*** L. M. Markwardt, D. W. Gerdes, R. Malhotra, J. C. Becker, **S. J. Hamilton**, F. C. Adams,
+“Search for L5 Earth Trojans with DECam,” accepted to MNRAS.<br>
 ***[7]*** M. V. Banda, J. I. B. Camargo, et al (incl. **S. J. Hamilton**), “Astrometry and
 Occultation Predictions to Transneptunian and Centaur Objects Observed Within
 the Dark Energy Survey,” 2018, arXiv:1811.10724, AJ , 157, 3, 120. <br>
@@ -160,6 +162,7 @@ Survey,” 2018, arXiv:1804.00591.
 
 [RELATE]: https://www.learntorelate.org
 [ComSciCon-MI]: https://comscicon.com/comscicon-michigan-2018
+[ComSciConversation]: https://comscicon.com/news
 [Flagship]: https://comscicon.com/comscicon-2019-flagship-workshop
 [Astrobites]: https://astrobites.org/author/shamilton/
 [Michigan Science Writers]: https://misciwriters.com/tag/stephaniehamilton/

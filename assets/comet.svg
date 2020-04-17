@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2570.54,-7)">
+        <g id="Comet" transform="matrix(0.716674,0,0,0.717744,897.654,63.832)">
+            <rect x="2334.24" y="-79.181" width="558.134" height="557.302" style="fill:none;"/>
+            <g id="comet">
+                <g id="comet-head" serif:id="comet head" transform="matrix(1,0,0,1,0.983967,26.4197)">
+                    <g transform="matrix(1.28852,0,0,1.2866,-659.323,-207.153)">
+                        <circle cx="2450.67" cy="381.02" r="43.828" style="fill:none;stroke:rgb(204,204,204);stroke-width:2.17px;"/>
+                    </g>
+                    <g transform="matrix(1.25,0,0,1.25,-583.559,-148.813)">
+                        <g transform="matrix(1.06692,-1.06533,1.06692,1.06533,-558.891,2552.27)">
+                            <path d="M2450.67,424.847C2426.48,424.847 2406.84,405.209 2406.84,381.02C2406.84,356.83 2426.48,337.192 2450.67,337.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.48px;"/>
+                        </g>
+                        <g transform="matrix(1.6056,0,0,1.49576,-1493.69,-238.165)">
+                            <path d="M2490.9,424.847L2595.18,313.054" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.44px;"/>
+                        </g>
+                        <g transform="matrix(0.351742,0,0,0.535694,1568.07,119.572)">
+                            <path d="M2406.84,340.239L2502.05,277.754" style="fill:none;stroke:rgb(204,204,204);stroke-width:4.92px;"/>
+                        </g>
+                    </g>
+                </g>
+                <g id="comet-streaks" serif:id="comet streaks" transform="matrix(1,0,0,1,0.983967,26.4197)">
+                    <g transform="matrix(1.5549,0,0,1.55059,-3073.24,-395.993)">
+                        <path d="M3664.7,404.366L3679.06,389.989" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.8px;"/>
+                    </g>
+                    <g transform="matrix(1.38349,0,0,1.4027,-2450.59,-333.834)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:2px;"/>
+                    </g>
+                    <g transform="matrix(1.00618,0,0,1.02014,-1081.02,-296.489)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:2.75px;"/>
+                    </g>
+                    <g transform="matrix(0.754632,0,0,0.765107,-229.661,-177.697)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:3.67px;"/>
+                    </g>
+                    <g transform="matrix(1.13195,0,0,1.14766,-1596.21,-208.417)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:2.45px;"/>
+                    </g>
+                    <g transform="matrix(0.125772,0,0,0.127518,2257.73,41.1281)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:22.02px;"/>
+                    </g>
+                    <g transform="matrix(0.062886,0,0,0.0637589,2306.69,104.223)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:44.04px;"/>
+                    </g>
+                    <g transform="matrix(0.62886,0,0,0.637589,347.6,-140.773)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:4.4px;"/>
+                    </g>
+                    <g transform="matrix(0.31443,0,0,0.318794,1445.11,46.9405)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:8.81px;"/>
+                    </g>
+                    <g transform="matrix(0.377316,0,0,0.382553,1137.6,43.7097)">
+                        <path d="M3693.61,378.452L3804.55,269.192" style="fill:none;stroke:rgb(204,204,204);stroke-width:7.34px;"/>
+                    </g>
+                </g>
+                <g id="comet-bubbles" serif:id="comet bubbles" transform="matrix(1,0,0,1,0.983967,26.4197)">
+                    <g transform="matrix(2.54869,0,0,2.54489,-3821.48,-672.128)">
+                        <circle cx="2517.92" cy="364.091" r="4.376" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.09px;"/>
+                    </g>
+                    <g transform="matrix(2.54869,0,0,2.54489,-3618.37,-824.653)">
+                        <circle cx="2517.92" cy="364.091" r="4.376" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.09px;"/>
+                    </g>
+                    <g transform="matrix(2.54869,0,0,2.54489,-3817.89,-814.712)">
+                        <circle cx="2517.92" cy="364.091" r="4.376" style="fill:none;stroke:rgb(204,204,204);stroke-width:1.09px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

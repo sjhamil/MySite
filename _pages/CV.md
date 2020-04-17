@@ -99,6 +99,7 @@ CERN, High Energy Physics
 
 ### Presentations
 
+**Apr 2020:** Exploring By the Seat of Your Pants, SciComm Storytime, remote.<br>
 **Jan 2020:** “Make it Personal: Effective Strategies for Communicating Your Science,” invited speaker,
 UCLA and UC-Irvine, CA.<br>
 **Jan 2019:** “Recent Results in the z<10<sup>−10</sup> Universe from the Dark Energy Survey,” invited

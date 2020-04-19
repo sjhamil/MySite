@@ -5,4 +5,3 @@ website_TODO.md
 .jekyll-cache/
 .bundle/
 vendor/
-Gemfile.lock

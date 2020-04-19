@@ -2,11 +2,14 @@
 layout: default
 ---
 
+{% assign post = page %}
+
     <article id="main">
   <header class="special container">
-    <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &nbsp; ✰ &nbsp; {{ page.author }}{% endif %}{% if page.meta %}  &nbsp; ✰ &nbsp; {{ page.meta }}{% endif %}</p>
+    <h2 class="post-title">{{ post.title }}</h2>
+    <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} &nbsp; ✰ &nbsp; {{ post.author }}{% endif %}{% if post.meta %}  &nbsp; ✰ &nbsp; {{ post.meta }}{% endif %}</p>
   </header>
+
 
   <section class="style4 wrapper container">
       {{ content }}
@@ -22,10 +25,10 @@ layout: default
   </section>
 
     <footer>
-        {% if page.previous %}
-        <a href="{{ page.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
-        {% if page.next %}
-        <a href="{{ page.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
+        {% if post.previous %}
+        <a href="{{ post.previous.url }}" class="post-prev">&larr; Previous post</a> {% endif %}
+        {% if post.next %}
+        <a href="{{ post.next.url }}" class="post-next">Next post &rarr;</a> {% endif %}
     </footer>
 
 </article>

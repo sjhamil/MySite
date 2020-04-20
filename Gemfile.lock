@@ -64,5 +64,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives
   jekyll-paginate
-  jekyll-seo-tag
+
 

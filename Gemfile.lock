@@ -64,6 +64,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives
   jekyll-paginate
+  jekyll-seo-tag
 
-BUNDLED WITH
-   2.1.4

@@ -29,7 +29,7 @@ class YouTube < Liquid::Tag
 
     "<div class=\"videoWrapper\">\n
       <!-- Copy & Pasted from YouTube --> \n
-      <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/#{@id}?color=white&theme=light\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe> \n
+      <iframe width=\"560\" height=\"349\" src=\"https://www.youtube.com/embed/#{@id}?color=white&theme=light\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe> \n
 </div>"
   end
 

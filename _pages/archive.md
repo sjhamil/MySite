@@ -5,6 +5,8 @@ permalink: /blog/archive/
 icon: "fa-archive"
 ---
 
+**I am currently a Technical Communications Associate for the MIT School of Engineering. Find my bylines for MIT News [here](https://www.google.com/search?sxsrf=ALeKk01k15I_0ckKKk1BdQnM9YpdtyTi-A%3A1588041192383&ei=6JWnXqnwFo3RtAaWobf4Bg&q=%22stephanie+hamilton%22+site%3Anews.mit.edu&oq=%22stephanie+hamilton%22+site%3Anews.mit.edu&gs_lcp=CgZwc3ktYWIQA1Df2wNYiO8DYK_1A2gAcAB4AIABmAKIAZ8FkgEFMy4xLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiphKS5iorpAhWNKM0KHZbQDW8Q4dUDCAw&uact=5)!**
+
 ### <span style="font-variant:small-caps;">Miscellaneous Posts</span>
 * I have written several posts for <a
 href="https://astrobites.org/author/shamilton/"

@@ -64,8 +64,7 @@ On this page:
 
 ## Upcoming Events
 
-
-* **(April 27, 2020) Ask Me, I'm A Scientist** with Susanna Harris. [Watch here!](https://www.youtube.com/watch?v=ZmsMIN2e-_c)
+None at this time! Please contact me!
 
 
 ---
@@ -73,6 +72,11 @@ On this page:
 ## Past Events
 
 **[This section is still in progress]**
+
+### Ask Me, I'm A Scientist (hosted by Susanna Harris, PhD)
+
+* [Watch here!](https://www.youtube.com/watch?v=ZmsMIN2e-_c)
+
 
 ### Exploring by the Seat of Your Pants
 

@@ -5,6 +5,13 @@ permalink: /presentations
 icon: ""
 ---
 
+## Ask Me, I'm A Scientist (hosted by Susanna Harris, PhD)
+YouTube (April 27, 2020)
+
+{% youtube ZmsMIN2e-_c %}
+
+---
+
 ## Exploring by the Seat of Your Pants: SciComm Storytime
 Online (April 17, 2020)
 

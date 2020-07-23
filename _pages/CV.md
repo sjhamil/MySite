@@ -6,40 +6,35 @@ icon: "fa-file"
 ---
 
 You can find my full CV <a
-href="https://drive.google.com/file/d/0B_dvQtq8UPvuUU1mTXhIdmNjbDA/view"
-target="_blank">here</a>, and a brief version <a
-href="https://drive.google.com/file/d/0B_dvQtq8UPvudmNxWVlzeWltY00/view"
+href="https://drive.google.com/file/d/1RUKzU9Ydx_1bHxfkUfsi4pgVL3gq6GWH/view?usp=sharing"
 target="_blank">here</a>.
-
-Alternatively, you can find an education-focused resume <a
-href="https://drive.google.com/file/d/1Lv5gDS-qiEeb310JUZ1t1U0Gg_W7v5BI/view?usp=sharing"
-target="_blank"> here</a> and a writing-focused resume <a
-href="https://drive.google.com/file/d/1uI822nZo5OCbnQOWRNJODRpzJfdi588r/view?usp=sharing"
-target="_blank"> here</a>.
 
 ---
 
 ### Current Position
-**Technical Communications Associate** (Feb 2020--present), MIT School of Engineering<br>
---Presentation preparation of faculty promotion cases<br>
---Presentation coaching for SoE researchers<br>
---News-style article coverage of current SoE projects and results
+
+**I am actively searching for a full-time science communication, planetary
+science, or astronomy position. If you're looking to fill that type of position,
+please [get in touch]!**
 
 
 ### Education
 
 **Ph.D. in Physics** (2014 -- 2019), University of Michigan, Ann Arbor, MI<br>
-Thesis topic: Studies of the Outer Solar System with the Dark Energy Survey<br>
-*Advisor: Dr. David Gerdes*
-
-**M.S. in Physics** (2014 -- 2017), University of Michigan, Ann Arbor, MI
-
+&nbsp;&nbsp;&nbsp;&nbsp;Thesis topic: Studies of the Outer Solar System with the Dark Energy Survey<br>
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Dr. David Gerdes*<br>
+**M.S. in Physics** (2014 -- 2017), University of Michigan, Ann Arbor, MI<br>
 **B.S. in Physics** (2010 -- 2014), Michigan State University, East Lansing, MI <br>
-*Advisors: Dr. Joey Huston, Dr. Wade Fisher*
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisors: Dr. Joey Huston, Dr. Wade Fisher*
 
 
 ### Science Communication and Outreach
 
+Technical Communications Associate, MIT School of Engineering,
+*Feb--Jun 2020* <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Presentation preparation of faculty promotion cases<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Presentation coaching for SoE researchers<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- News-style article coverage of current SoE projects and results<br>
 [#UniqueScientists] team member, *2019--present* <br>
 [ScienceTalk] Logistics committee member, *2019--present*<br>
 [RELATE] leadership board member, *2017--2019*<br>
@@ -126,6 +121,11 @@ _(10 additional talks not listed)_
 
 ### Publications
 
+#### *In Prep*
+
+1. **S. J. Hamilton**, et al, "ComSciCon-Michigan: Evaluating the Impact of Two
+   Years of Science Communication Training."
+
 #### *Peer-reviewed*
 
 9. **S. J. Hamilton**, D. W. Gerdes, et al, “A Survey Simulator for Moving Object
@@ -161,6 +161,7 @@ Fields”, 2015, arXiv:1507.05177, AJ, 151, 39.
 of the Online Education and Public Outreach Initiatives of The Dark Energy
 Survey,” 2018, arXiv:1804.00591.
 
+[get in touch]: https://stephaniejhamilton.com/contact
 [RELATE]: https://www.learntorelate.org
 [ComSciCon-MI]: https://comscicon.com/comscicon-michigan-2018
 [ComSciConversation]: https://comscicon.com/news
